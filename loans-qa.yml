@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to eazybank loans related QA APIs"
+  message: "Welcome to eazybank loans related quality APIs"
   contactDetails:
     name: "Parveen Kumar - Developer"
     email: "supraveensrt@gmail.com"
