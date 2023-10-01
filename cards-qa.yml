@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to eazybank cards related qa APIs"
+  message: "Welcome to eazybank cards related webhook APIs"
   contactDetails:
     name: "Parveen Kumar - Developer"
     email: "supraveensrt@gmail.com"
